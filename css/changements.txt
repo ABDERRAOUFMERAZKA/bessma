@@ -1,0 +1,4 @@
+ligne 42 changement de couleur menu   #dad6cc=>#61210B
+ligne 43 menu_active.gif=> marron_petit.png
+ligne 28 changement de couleur H3 #dad6cc=>#61210B
+//  changement de couleur de body du blan au noir #ffffff =>#000000     tout ruinés
